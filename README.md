@@ -1,1 +1,1 @@
-# ZURI-django-intro
+# zuri-django-intro
